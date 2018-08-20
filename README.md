@@ -1,17 +1,15 @@
-# Webhook-and-API.AI-Sample - Echo your text
+# Integration between Your own NodeJS and API.AI-Sample 
 
-A very simple step by step, 11:06 minutes demo (see video at the end of read me) of implementing an echo service using webhook. Whatever user asks Google Assistant will be sent to your API and then same text will be sent back as speech text.
-
-This simple app will help you understand
-- How to write an API in node
-- How to integrate your node JS app with DialogFlow (API.AI) as webhook
+A very simple BackEnd side to response API.AI
 
 # Deploy to:
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # How it works?
-- Push this app to Heroku
-- Test the API https://webhook-echo-sample.herokuapp.com/echo - use www.hurl.it to test it
+- Push this app to github
+- Visit the Heroku by click above and make a connection with your github.
+- This source gonna be run on the heroku server.
+- Check out  
 
 Open DialogFlow portal - https://dialogflow.com/
 - Create an account and login
