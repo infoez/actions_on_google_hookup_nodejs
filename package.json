@@ -12,5 +12,27 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "pug": "2.0.0-beta11"
-  }
+  },
+  "description": "A very simple BackEnd side to response API.AI",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infoez/actions_on_google_hookup_nodejs.git"
+  },
+  "keywords": [
+    "actions",
+    "on",
+    "google",
+    "hooup",
+    "with",
+    "nodejs",
+    "test"
+  ],
+  "author": "yongwoo lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infoez/actions_on_google_hookup_nodejs/issues"
+  },
+  "homepage": "https://github.com/infoez/actions_on_google_hookup_nodejs#readme"
 }
