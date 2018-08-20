@@ -24,7 +24,7 @@ index.post("/webhook", function (req, res) {
     });
 });
 
-index.listen(process.env.PORT || 8000, function () {
+index.listen(process.env.PORT || 3000, function () {
     console.log("Server up and listening");
 });
 
