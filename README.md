@@ -9,7 +9,8 @@ A very simple BackEnd side to response API.AI
 - Push this app to github
 - Visit the Heroku by click above and make a connection with your github.
 - This source gonna be run on the heroku server.
-- Check out  
+- Check out https://[your-application-name].herokuapp.com/
+- For Example https://actions-on-google-hookup-nodej.herokuapp.com/ in my project case.
 
 Open DialogFlow portal - https://dialogflow.com/
 - Create an account and login
