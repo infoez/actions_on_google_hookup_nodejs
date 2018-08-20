@@ -2,7 +2,7 @@
 
 A very simple BackEnd side to response API.AI
 
-# Deployed to:
+# This application has been deployed to:
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # How it works?
